@@ -18,7 +18,7 @@
 }
 @font-face {
   font-family: 'Rabar_021';
-  src: url('./fonts/Rabar_021.ttf') format('truetype');
+  src: url('Rabar_021.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
